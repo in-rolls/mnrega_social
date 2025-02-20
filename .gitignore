@@ -172,3 +172,4 @@ cython_debug/
 .DS_Store
 /data/html
 scripts/openai_key.txt
+*.DS_Store
