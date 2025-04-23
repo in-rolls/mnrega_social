@@ -1,20 +1,19 @@
 ### Done
 
-Andhra Pradesh
-Arunachal Pradesh
-Assam
-Goa
-Haryana
-Himachal Pradesh
-Kerala
-Lakshadweep
-Manipur
-Meghalaya
-Mizoram
-Puducherry
-Rajasthan
-Sikkim
-Tripura
-UP
-Punjab
+UTTAR PRADESH        129799
+RAJASTHAN             48117
+ANDHRA PRADESH        27847
+HIMACHAL PRADESH      22903
+MEGHALAYA             15403
+ASSAM                  9966
+HARYANA                9779
+BIHAR                  8941
+TRIPURA                6498
+PUNJAB                 3622
+MIZORAM                3609
+MANIPUR                2954
+CHHATTISGARH           2338
+KERALA                 1763
+ARUNACHAL PRADESH       896
+SIKKIM                  880
 
