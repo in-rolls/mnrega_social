@@ -4,6 +4,7 @@ Scripts for scraping and parsing https://mnregaweb4.nic.in/netnrega/SocialAuditF
 
 ### Data
 
+```
 UTTAR PRADESH        129799
 RAJASTHAN             48117
 ANDHRA PRADESH        27847
@@ -20,6 +21,7 @@ CHHATTISGARH           2338
 KERALA                 1763
 ARUNACHAL PRADESH       896
 SIKKIM                  880
+```
 
 Final data posted at:  https://doi.org/10.7910/DVN/KAIZ1B
 
