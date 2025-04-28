@@ -29,3 +29,11 @@ Final data posted at:  https://doi.org/10.7910/DVN/KAIZ1B
 Pair with https://github.com/in-rolls/mnrega
 
 
+
+## 🔗 Adjacent Repositories
+
+- [in-rolls/mnrega](https://github.com/in-rolls/mnrega) — Scripts to scrape MNREGA R1, R3, R5, and R6 reports
+- [in-rolls/quota](https://github.com/in-rolls/quota) — Effects of Randomly Assigned Reservations for Women Leaders in Indian Local Government on Allocation and Development Outcomes
+- [in-rolls/secc](https://github.com/in-rolls/secc) — Socio-Economic Caste Census 2011
+- [in-rolls/ration_bihar](https://github.com/in-rolls/ration_bihar) — Scripts for scraping Ration Card Data From Bihar
+- [in-rolls/local_elections_bihar](https://github.com/in-rolls/local_elections_bihar) — Candidate Info. + Valid Votes Won by Cands. in the 2016 Bihar Panchayat Elections
